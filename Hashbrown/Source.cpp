@@ -1,9 +1,5 @@
 /*
 * Brian Cook
-* CST-201 1pm
-* Michael Sarlo
-* 11/19/2022
-* My Own Work
 */
 
 #include <iostream>
