@@ -1,8 +1,5 @@
 /*
 * Brian Cook
-* CST-201 1pm
-* 9/27/2022
-* My Own Work
 */
 
 #include <iostream>
